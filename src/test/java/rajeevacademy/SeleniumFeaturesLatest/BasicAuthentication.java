@@ -26,6 +26,6 @@ public class BasicAuthentication {
 	
 	
 	//Demos
-		//Demo Second Second
+		//Demo Second
 	}
 }
